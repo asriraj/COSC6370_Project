@@ -8,7 +8,7 @@ A = @(x) radon(x, angle_theta);
 AT = @(y) iradon(y, angle_theta, 'none', n)/(pi/(2*length(angle_theta)));
 AINV = @(y) iradon(y, angle_theta, n);
 
-load('discphantomf.mat');
+load('discphantomnorm.mat');
 x = imresize(double(r), [n, n]);
 p = A(x);
 x_full = AINV(p);
