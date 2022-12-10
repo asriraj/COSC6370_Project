@@ -46,9 +46,9 @@ The MATLAB code is attached. A list of the files is as follows:
 <img width="769" alt="Screenshot 2022-12-09 at 6 16 53 PM" src="https://user-images.githubusercontent.com/90299324/206816301-4aa6dd61-beee-4120-9d0e-7ca8c5a5bfe5.png">
 
 ### Members of the Team
-Venkata Satya Sriraj Allamsetti (Peoplesoft ID: 2084338) – Master’s in Computer Science - vallamse@cougarnet.uh.edu   
-Diamond Celestine Aluri (Peoplesoft ID: 1988982) – Master’s in Computer Science - daluri@cougarnet.uh.edu   
-Bhanu Prakash Nekkanti (Peoplesoft ID: 1993068) – Master’s in Computer Science - bnekkant@cougarnet.uh.edu  
+Venkata Satya Sriraj Allamsetti (UH ID: 2084338) – Master’s in Computer Science - vallamse@cougarnet.uh.edu   
+Diamond Celestine Aluri (UH ID: 1988982) – Master’s in Computer Science - daluri@cougarnet.uh.edu   
+Bhanu Prakash Nekkanti (UH ID: 1993068) – Master’s in Computer Science - bnekkant@cougarnet.uh.edu  
 
 
 
